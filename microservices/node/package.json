@@ -1,0 +1,21 @@
+{
+    "name": "nodejs-mongodb-customersservice",
+    "version": "1.0.0",
+    "repository": {
+        "url": "https://github.com/DanWahlin/Angular-NodeJS-MongoDB-CustomersService"
+    },
+    "license": "MIT",
+    "scripts": {},
+    "dependencies": {
+        "cookie-parser": "^1.4.3",
+        "body-parser": "^1.18.2",
+        "csurf": "^1.9.0",
+        "errorhandler": "^1.5.0",
+        "express": "^4.16.3",
+        "express-session": "^1.15.6",
+        "mongoose": "^5.0.11",
+        "morgan": "~1.9.0",
+        "serve-favicon": "~2.4.5",
+        "express-convention-routes": "^1.0.5"
+    }
+}
